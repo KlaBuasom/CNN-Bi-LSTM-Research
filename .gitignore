@@ -2,3 +2,4 @@
 training-data/hist_data.csv
 *.csv
 *.h5
+*.txt
